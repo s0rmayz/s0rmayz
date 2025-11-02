@@ -3,16 +3,16 @@
 
 # Hello Guys!
 
-### 👋 About Me
+### About Me
 - A Middle School Student from China
 - Also A Coding Beginner Passionate about Programming
 - Be Good at HTML, Python, etc.
 
-### 🛠 Skills & Languages
+### Skills & Languages
 - **Chinese** - Native
 - **English** - Maybe Good (limited direct communication)
 - **Python** - Basic
 - **HTML** - Maybe Good
 
-### 📫 Contact
+### Contact Me
 - **E-Mail**: 2430545310@qq.com or raskora@outlook.com
